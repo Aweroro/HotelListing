@@ -1,1 +1,1 @@
-HotelListing
+Just a sample API
